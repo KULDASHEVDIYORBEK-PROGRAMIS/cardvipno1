@@ -1,0 +1,58 @@
+{
+    "cars" : [
+        {
+            "brend" : "BMW",
+            "BrendLogo" : "assets/images/bmw.png",
+            "rent" : [
+                {
+                    "name" : "M5",
+                    "seats" : "2",
+                    "rating" : "5.2",
+                    "price" : "45$",
+                    "images" : "https://images.unsplash.com/photo-1583121274602-3e2820c69888?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RmVyYXJyaXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600"
+                }
+            ]
+        },
+         {
+            "brend" : "Ferrari S.p.A.",
+            "BrendLogo" : "assets/images/ferari.png",
+            "rent" : [
+                {
+                    "name" : "LaFerrari",
+                    "seats" : "2",
+                    "rating" : "7.2",
+                    "price" : "62$",
+                    "images" : "https://images.unsplash.com/photo-1583121274602-3e2820c69888?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RmVyYXJyaXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600"
+                }
+            ]
+        },
+         {
+            "brend" : "Audi AG",
+            "BrendLogo" : "assets/images/Ali.png",
+            "rent" : [
+                {
+                    "name" : "A3",
+                    "seats" : "4",
+                    "rating" : "4.6",
+                    "price" : "33$",
+                    "images" : "https://images.unsplash.com/photo-1540066019607-e5f69323a8dc?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGF1ZGl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600"
+                }
+            ]
+        },
+         {
+            "brend" : "Tesla, Inc.",
+            "BrendLogo" : "assets/images/tesla.png",
+            "rent" : [
+                {
+                    "name" : "S Plaid",
+                    "seats" : "4",
+                    "rating" : "6.5",
+                    "price" : "43$",
+                    "images" : "https://images.unsplash.com/photo-1617788138017-80ad40651399?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHRlc2xhfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600"
+                }
+            ]
+        }
+    ]
+}
+
+
