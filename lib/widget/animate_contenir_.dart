@@ -46,6 +46,7 @@ class _AnimatedButtonState extends State<AnimatedButton>
       onTapUp: _onTapUp,
       onTapCancel: _onTapCancel,
       child: AnimatedScale(
+        
         scale: _scale,
         duration: const Duration(milliseconds: 120),
         child: Container(
